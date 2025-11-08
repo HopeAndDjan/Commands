@@ -11,7 +11,7 @@ print("test") --- replace with anything you want to happen
 end
 end)
 
-if you want to make another command do not copy and paste and do different things just do
+--- if you want to make another command do not copy and paste and do different things just do
 
 if msg == "sometimes" then
 print("good")
